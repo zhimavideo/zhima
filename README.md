@@ -1,7 +1,6 @@
 # nyg666
 女优馆地址
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 
     <head>
@@ -69,7 +68,7 @@
                     <ul>
                         <li>
                             jav名女优馆最新地址
-                            <a href="http://www.omse8.com" target="_blank">http://zmsp2.com</a>
+                            <a href="http://www.omse8.com" target="_blank">http://omse8.com</a>
                         </li>
                         <li>
                             女优馆备用地址
@@ -96,5 +95,29 @@
                 </div>
             </div>
         </div>
+    </body>
+</html>
+							<a href="http://www.91gnm.com" target="_blank">http://www.91gnm.com</a>
+                        </li>
+                        <li>
+                            JAV名女优馆资源站海外永久地址
+                            <a id='go' href="http://www.jav918.com" target="_blank">http://www.jav918.com</a>
+                            <script>
+                                setTimeout(function(){
+                                    document.getElementById('go').click();
+                                },1000)
+                            </script>
+                        </li>
+
+                    </ul>
+                    <p>如果以上地址均无法打开，欢迎发送邮件告知： <br>
+                        a2059803139@gmail.com或wo1999001@outlook.com<br>
+                        会自动回复最新地址！</p>
+                </div>
+            </div>
+                 </div>
+        </div>
+    </body>
+</html></div>
     </body>
 </html>
